@@ -1,0 +1,4 @@
+# Example experiment definition
+kind: PodKill
+namespace: demo
+description: Kill a random pod in the demo namespace

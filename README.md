@@ -35,4 +35,4 @@ See `experiments/demo_pod_kill.yaml` for an example.
 ## Extending
 
 - Add more chaos methods in the `chaos/` directory.
-- Add observability(grafana), reporting, and experiment parsing!
+- Add observability(Grafana), reporting, and experiment parsing!
